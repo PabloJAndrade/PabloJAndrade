@@ -1,12 +1,18 @@
 ## Olá, meu nome é Pablo Andrade!
-### 🎫Sobre mim.
- Sou uma pessoa que encontrou na aréa de qualidade seu segundo amor( o primeiro é minha esposa).
-  Gosto muito de contribuir com os projetos que estou envolvido, tanto em entregas com qualidades, quanto em pontos
-  de melhorias. Para mim, a area de qualidade se extende por todas as partes do projeto, desde do Dev até o Cliente,
-  tornando-se um elo de comunicação e meio para alcançar melhores resultados, fazendo uso das melhroes praticas,
-  afim de encantar clientes e equipes com nosso trabalho. 
-  ## Meu momento atual
-  Atualmente estou em uma jornada de aprimorar meus conhecimentos. Tenho trabalhado com aplicativos mobile, em diversos contextos, desde aplicativos de reservas para hoteis, agronegocios, gestão de frotas a aplicativos com soluções financeira para empresas, utilizando ferramentas como Maestro e Appium para realizar automação. Além disso tambem tenho experiencia em automação web, fazendo uso do cypress, python, robotframework, selenium.
+
+### 🎫 Sobre mim
+
+Sou um profissional apaixonado pela área de Qualidade, onde encontrei um propósito em ir além da detecção de defeitos. Minha missão é contribuir ativamente para a excelência dos projetos, garantindo entregas de alta qualidade e identificando continuamente pontos de melhoria. Acredito que a Qualidade é um elo fundamental que perpassa todas as etapas do desenvolvimento, desde a concepção com o time de Engenharia até a experiência final do Cliente. Atuo como um facilitador da comunicação e um impulsionador de resultados, aplicando as melhores práticas para encantar tanto as equipes internas quanto os usuários finais com um trabalho impecável.
+
+### 🚀 Minha Jornada Atual
+
+Atualmente, estou focado em expandir e aprofundar meus conhecimentos em automação de testes. Tenho uma sólida experiência com automação mobile, atuando em diversos contextos, desde aplicativos de reservas para hotéis e agronegócios até soluções financeiras para empresas. Utilizo ferramentas robustas como RobotFramework e Maestro para construir automações eficientes e escaláveis. Embora minha experiência direta com Appium seja através da abstração dessas ferramentas, possuo uma grande facilidade e proatividade para aprender e dominar novas tecnologias, adaptando-me rapidamente às demandas do mercado.
+
+No universo da automação web, minha expertise abrange o uso de Playwright, Cypress, Python e Selenium. Em minha experiência anterior na Liferay, atuei como QA Tester, planejando e executando testes manuais, de integração e regressão, inclusive utilizando Selenium em conjunto com um framework proprietário em Java. Além disso, tive contato com ferramentas de observabilidade como Sentry, o que me proporcionou uma visão sobre o rastreamento de bugs e análise de logs.
+
+Minha paixão por Qualidade me impulsiona a buscar constantemente o aprimoramento, sempre visando a entrega de soluções robustas e a construção de um ambiente de desenvolvimento que respire qualidade em cada linha de código.
+
+
 ### ⚙️ GitHub Analytics
 
 <table>
